@@ -1,0 +1,6 @@
+{
+  "name": "Camille Duroy CV Voice Agent",
+  "description": "An interactive, futuristic AI voice assistant presenting physical CV data, certifications, and project experience in French and English.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
